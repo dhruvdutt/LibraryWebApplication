@@ -1,0 +1,9 @@
+WeekDaysType
+six
+types
+i18n
+WeekDay
+BitType
+ScalarCoercible
+WeekDays
+ImproperlyConfigured

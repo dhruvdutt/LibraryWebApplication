@@ -1,0 +1,30 @@
+c:\users\daniel\documents\visual studio 2013\Projects\MiniProject\MiniProject\bin\Microsoft.PythonTools.WebRole.dll
+c:\users\daniel\documents\visual studio 2013\Projects\MiniProject\MiniProject\obj\Debug\attach_server.py
+c:\users\daniel\documents\visual studio 2013\Projects\MiniProject\MiniProject\obj\Debug\visualstudio_py_debugger.py
+c:\users\daniel\documents\visual studio 2013\Projects\MiniProject\MiniProject\obj\Debug\visualstudio_py_repl.py
+c:\users\daniel\documents\visual studio 2013\Projects\MiniProject\MiniProject\obj\Debug\visualstudio_py_util.py
+c:\users\daniel\documents\visual studio 2013\Projects\MiniProject\MiniProject\obj\Debug\__init__.py
+c:\users\daniel\documents\visual studio 2013\Projects\MiniProject\MiniProject\obj\Debug\__main__.py
+c:\users\daniel\documents\visual studio 2013\Projects\MiniProject\MiniProject\bin\AzureSetup.cfg
+c:\users\daniel\documents\visual studio 2013\Projects\MiniProject\MiniProject\bin\Microsoft.PythonTools.AzureSetup.exe
+c:\users\daniel\documents\visual studio 2013\Projects\MiniProject\MiniProject\bin\Microsoft.PythonTools.AzureSetup.exe.config
+c:\users\daniel\documents\visual studio 2013\Projects\MiniProject\MiniProject\bin\wfastcgi.py
+c:\users\daniel\documents\visual studio 2013\Projects\MiniProject\MiniProject\obj\Debug\deployment-updated-pyvenv.cfg
+c:\users\daniel\documents\visual studio 2013\Projects\MiniProject\MiniProject\ptvs_virtualenv_proxy.py
+c:\users\daniel\documents\visual studio 2013\Projects\MiniProject\MiniProject\obj\Debug\web.config
+c:\users\daniel\documents\visual studio 2013\Projects\MiniProject\MiniProject\obj\Debug\web.debug.config
+C:\Users\Daniel\Source\Repos\miniproject\MiniProject\bin\Microsoft.PythonTools.WebRole.dll
+C:\Users\Daniel\Source\Repos\miniproject\MiniProject\obj\Debug\attach_server.py
+C:\Users\Daniel\Source\Repos\miniproject\MiniProject\obj\Debug\visualstudio_py_debugger.py
+C:\Users\Daniel\Source\Repos\miniproject\MiniProject\obj\Debug\visualstudio_py_repl.py
+C:\Users\Daniel\Source\Repos\miniproject\MiniProject\obj\Debug\visualstudio_py_util.py
+C:\Users\Daniel\Source\Repos\miniproject\MiniProject\obj\Debug\__init__.py
+C:\Users\Daniel\Source\Repos\miniproject\MiniProject\obj\Debug\__main__.py
+C:\Users\Daniel\Source\Repos\miniproject\MiniProject\bin\AzureSetup.cfg
+C:\Users\Daniel\Source\Repos\miniproject\MiniProject\bin\Microsoft.PythonTools.AzureSetup.exe
+C:\Users\Daniel\Source\Repos\miniproject\MiniProject\bin\Microsoft.PythonTools.AzureSetup.exe.config
+C:\Users\Daniel\Source\Repos\miniproject\MiniProject\bin\wfastcgi.py
+C:\Users\Daniel\Source\Repos\miniproject\MiniProject\obj\Debug\deployment-updated-pyvenv.cfg
+C:\Users\Daniel\Source\Repos\miniproject\MiniProject\ptvs_virtualenv_proxy.py
+C:\Users\Daniel\Source\Repos\miniproject\MiniProject\obj\Debug\web.config
+C:\Users\Daniel\Source\Repos\miniproject\MiniProject\obj\Debug\web.debug.config

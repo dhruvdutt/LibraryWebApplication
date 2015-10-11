@@ -1,0 +1,6 @@
+absolute_import
+postgresql
+UUIDType
+uuid
+types
+ScalarCoercible

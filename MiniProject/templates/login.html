@@ -1,0 +1,25 @@
+﻿{% extends "material/base.html" %}
+{% import "material/utils.html" as util %}
+{% import "material/wtf.html" as wtf %}
+{% block content %}
+<div class="container">
+    <div class="row">
+        {% with msgs = get_flashed_messages() %}
+        {% if msgs %}
+        {%- for msg in msgs %}
+        <br />
+        <div class="card-panel red lighten-1" style="text-align:center">
+            {{ msg }}
+        </div>
+        {% endfor -%}
+        {% endif %}
+        {% endwith %}
+        <h4 class="msg" style="text-align:center">{{message}}</h4>
+        <div class="col s12 m12">
+            <form method="post" action="/login">
+                {{ wtf.quick_form(form) }}
+            </form>
+        </div>
+    </div>
+</div>
+{% endblock %}

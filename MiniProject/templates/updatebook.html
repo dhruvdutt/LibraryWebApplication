@@ -1,0 +1,17 @@
+﻿{% extends "layout.html" %}
+{% block content %}
+{% if updt  == 0 %}
+<div class="container body-content">
+    <form class="form-horizontal" method="post" action="/update">
+        {{ form.id }}
+        {{ form.uupdate }}
+    </form>
+</div>
+{% else %}
+<div class="container body-content">
+    <form>
+        {{wtf.quick_form(form)}}
+    </form>
+</div>
+{% endif %}
+{% endblock %}

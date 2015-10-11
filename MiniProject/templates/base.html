@@ -1,0 +1,15 @@
+﻿{% extends "material/base.html" %}
+{% import "material/utils.html" as util %}
+{% import "material/wtf.html" as wtf %}
+{% block title %}{{ title }}{% endblock %}
+{% block styles %}
+<link rel="stylesheet" href="{{url_for('static',filename='materialize.min.css')}}" />
+<!--<link href="https://fonts.googleapis.com/icon?family=Material+Icons" rel="stylesheet">-->
+<link rel="stylesheet" type="text/css" href="{{url_for('static', filename='site.css')}}">
+{%- endblock %}
+{% block scripts %}
+<script src="{{url_for('static',filename='jquery-1.10.2.min.js')}}"></script>
+<script src="{{url_for('static',filename='respond.min.js')}}"></script>
+<script src="{{url_for('static',filename='materialize.min.js')}}"></script>
+<script src="{{url_for('static',filename='style.js')}}"></script>
+{%- endblock %}

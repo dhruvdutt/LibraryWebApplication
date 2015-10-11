@@ -1,0 +1,7 @@
+python_colour_type
+six
+types
+colour
+ColorType
+ScalarCoercible
+ImproperlyConfigured

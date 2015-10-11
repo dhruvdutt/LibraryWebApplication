@@ -1,0 +1,40 @@
+{% extends "base.html" %}
+{% block navbar %}
+<div class="fixed-navbar">
+    <nav>
+        <div class="nav-wrapper">
+            <ul id="nav-mobile" class="right hide-on-med-and-down">
+                <li>
+                    <form>
+                        <div class="input-field">
+                            <input id="search" type="search" required>
+                            <label for="search"><i class="material-icons">search</i></label>
+                            <i class="material-icons">close</i>
+                        </div>
+                    </form>
+                </li>
+                <li><a href="{{ url_for('login') }}">Login</a></li>
+            </ul>
+        </div>
+    </nav>
+</div>
+{%- endblock %}
+{% block content %}
+<div class="container body-content">
+    {% with msgs = get_flashed_messages() %}
+    {% if msgs %}
+    {%- for msg in msgs %}
+    <br />
+    <div class="alert alert-info container" style="text-align:center">
+        {{ msg }}
+    </div>
+    {% endfor -%}
+    {% endif %}
+    {% endwith %}
+    <h1>{{ message }}</h1>
+</div>
+{%- endblock %}
+
+<footer>
+    <p>&copy; {{ year }}-CA DEPARTMENT</p>
+</footer>

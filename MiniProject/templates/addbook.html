@@ -1,0 +1,18 @@
+﻿{% extends "layout.html" %}
+{% block content %}
+<div class="container body-content">
+    {% with msgs = get_flashed_messages() %}
+    {% if msgs %}
+    {%- for msg in msgs %}
+    <br />
+    <div class="alert alert-info container" style="text-align:center">
+        {{ msg }}
+    </div>
+    {% endfor -%}
+    {% endif %}
+    {% endwith %}
+    <form class="form-horizontal" method="post" action="/addbook">
+        {{wtf.quick_form(form)}}
+    </form>
+</div>
+{% endblock %}

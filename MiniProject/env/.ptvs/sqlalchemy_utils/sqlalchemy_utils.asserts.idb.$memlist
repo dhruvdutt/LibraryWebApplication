@@ -1,0 +1,15 @@
+_update_field
+sa
+DataError
+_expected_exception
+Decimal
+_repeated_value
+_expect_failing_update
+assert_max_length
+_expect_successful_update
+assert_nullable
+assert_min_value
+ARRAY
+assert_non_nullable
+assert_max_value
+IntegrityError

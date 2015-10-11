@@ -1,0 +1,17 @@
+explain_analyze
+explain
+GenericFunction
+sa
+FunctionElement
+quote
+array_agg
+_literal_as_text
+row_to_json
+ColumnElement
+json_array_length
+array_get
+Executable
+ClauseElement
+compiles
+postgresql
+Asterisk
